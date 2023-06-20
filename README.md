@@ -16,6 +16,8 @@ Foram realizadas questões de juizes online sobre o tema Dividir e Conquistar
 ## Linguagens
 - Python 
 - C++
+- C
+  
 
 ## Screenshots dos contests
 <img width="956" alt="Captura de Tela 2023-06-19 às 21 31 08" src="https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/60350851/fba82a1a-d5a8-4f38-91aa-9c881f631cca">
@@ -56,5 +58,15 @@ O arquivo de entrada contém vários casos de teste. Cada caso de teste começa 
 Saída
 Para cada conjunto de entrada imprima uma única linha de saída contendo um valor de ponto flutuante (com 4 dígitos após o ponto decimal) o qual denotará a distância entre os dois pontos mais próximos. Se não existirem tais dois pontos na entrada cuja distância for menor do que 10000, imprima a mensagem "INFINITY" sem as aspas.
 
- 
 
+### Questão 3 Inversion Counting
+![Screenshot from 2023-06-20 13-41-41](https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/48924092/44db9c0e-220b-4c0a-bde6-3f1cd00d4dde)
+
+![Screenshot from 2023-06-20 11-31-39](https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/48924092/a09cb3c7-0058-4239-9746-3dfe84f34541)
+
+## Questao 4  Till I Collapse
+
+![Screenshot from 2023-06-20 14-47-09](https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/48924092/fce84c32-d57c-404e-bda2-5cea27982245)
+
+
+![Screenshot from 2023-06-20 14-43-36](https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/48924092/36b16975-d92c-443a-94ad-f08c7175211d)
