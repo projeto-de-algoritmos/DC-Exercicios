@@ -13,17 +13,17 @@
 ## Sobre 
 Foram realizadas questões de juizes online sobre o tema Dividir e Conquistar 
 
-##Linguagens
-Python 
-C++
+## Linguagens
+- Python 
+- C++
 
-##Screenshots dos contests
+## Screenshots dos contests
 <img width="956" alt="Captura de Tela 2023-06-19 às 21 31 08" src="https://github.com/projeto-de-algoritmos/DC-Exercicios/assets/60350851/fba82a1a-d5a8-4f38-91aa-9c881f631cca">
 
-##Questões
+## Questões
 
 
-###Bolhas e Baldes
+### Questão 1: Bolhas e Baldes
 Por Cláudio L. Lucchesi  Brasil
 
 Timelimit: 3
@@ -44,7 +44,7 @@ Saída
 Para cada caso de teste da entrada seu programa deve imprimir uma única linha, com o nome do vencedor, igual a Carlos ou Marcelo., sem espaços em branco.
 
 
-###Problema dos Pares Mais Próximos
+### Questão 2: Problema dos Pares Mais Próximos
 Por Shahriar Manzoor  Bangladesh
 
 Timelimit: 2
