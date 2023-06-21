@@ -17,6 +17,9 @@ Foram realizadas questões de juizes online sobre o tema Dividir e Conquistar
 - Python 
 - C++
 - C
+
+## Video
+https://unbbr-my.sharepoint.com/:v:/g/personal/180078640_aluno_unb_br/Ee9ipFqrUpxNiwIE2wKyq7oBk9Jxkoq_y9riVkP1h3xihg
   
 
 ## Screenshots dos contests
